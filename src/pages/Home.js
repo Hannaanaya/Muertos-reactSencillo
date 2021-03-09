@@ -23,14 +23,6 @@ export default class Home extends Component {
                 Start
               </Link>
             </div>
-
-            {/* <div className="Home__col d-none d-md-block col-md-8">
-              <img
-                src={logoIma}
-                alt="Logo"
-                className="img-fluid p-4"
-              />
-            </div> */}
           </div>
         </div>
       </div>
